@@ -1,0 +1,24 @@
+estrutura
+body
+Define fonte padrão, cor de fundo e cor do texto.
+Sempre bom zerar margens (margin: 0;) para evitar espaços extras do navegador.
+
+layout e organização
+max-width para limitar a largura do conteúdo e centralizar.
+padding para dar respiro ao texto.
+border-radius e box-shadow deixam o bloco mais agradável visualmente.
+
+img
+max-width: 150px; → Limita tamanho máximo para não ficar gigante.
+border-radius: 8px; → Bordas arredondadas.
+
+li
+ul Usei list-style-type: square; para marcar com quadradinhos.
+padding-left: 20px; Afasta a lista da borda.
+
+table
+border-collapse: collapse; Junta as bordas para ficar mais limpo.
+th, td → Borda fina + alinhamento central.
+th → Fundo cinza claro para diferenciar cabeçalho.
+
+*tirar antes de enviar*
